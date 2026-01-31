@@ -1,0 +1,21 @@
+hub-jobs/
+  app/
+    layout.tsx
+    page.tsx
+    api/
+      db/
+        health/route.ts
+        query/route.ts
+  components/
+    AdSenseProvider.tsx
+    AdSlot.tsx
+    HubShell.tsx
+  lib/
+    db.ts
+    sanitize.ts
+  Dockerfile
+  docker-compose.yml
+  package.json
+  next.config.js
+  tsconfig.json
+  .env.example
